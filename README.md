@@ -2,8 +2,6 @@
 
 I am a passionate Junior Web Developer from **Kigali, Rwanda**, with a strong interest in building scalable, modern web and mobile applications. My journey is fueled by curiosity, continuous learning, and a desire to create impactful digital solutions.  
 
-![Joel's Stats](https://github-readme-stats.vercel.app/api?username=joeliyamuremye&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## 🚀 About Me
