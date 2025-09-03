@@ -41,7 +41,7 @@ I am a passionate Junior Web Developer from **Kigali, Rwanda**, with a strong in
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/)  
 - 🐦 Follow me on [Twitter](https://twitter.com/)  
-- 📧 Reach me at: **your-email@example.com**  
+- 📧 Reach me at: **hirwajoe2@gmail.com**  
 
 ---
 
